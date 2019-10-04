@@ -1,0 +1,27 @@
+
+.container{
+    padding: 4px;
+    background-color:rgb(249, 205, 255);
+}
+.jumbotron{
+    padding: 2px;
+    background-color: burlywood;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  
+/* .mobile{
+    margin: 22px;
+    padding: 10px;
+} */
+/* .yard{
+    margin: 20px;
+
+} */
+
+
